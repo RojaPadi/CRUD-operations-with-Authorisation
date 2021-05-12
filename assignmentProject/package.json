@@ -129,7 +129,7 @@
     "multer": "^1.3.0",
     "node-cron": "^2.0.3",
     "node-ses": "^2.1.0",
-    "nodemailer": "^4.6.3",
+    "nodemailer": "^6.4.16",
     "oauth2-server": "^3.0.1",
     "preboot": "^5.1.7",
     "random-number": "0.0.9",
